@@ -1,6 +1,5 @@
-esto es una pruena 
+hola
 
-Nairo Alberto Guerrero Marquez
+mi nombre es Nairo Guerrero 
 
-
-HOY VOY A PRENDER LOS COMANDODE GIT EN PLATZI y github
+estoy haciendo un curso de git y github
